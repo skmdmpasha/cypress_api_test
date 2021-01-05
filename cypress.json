@@ -1,0 +1,8 @@
+{
+    "testFiles": "**/*.{feature,features}",
+
+    "_comment":"Get all environment variables from configuration file (cypress.json by default)",
+    "env": {
+        "URL": "http://dummy.restapiexample.com/"
+    }
+}
